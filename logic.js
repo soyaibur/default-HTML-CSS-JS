@@ -1,13 +1,22 @@
-alert("Delete me first")
+// ....Univesal Stracture of function and others......
+// ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 
+// .....All Element Selection will be undernith here...........
+// ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 
+// .....All EventListener go undernith here...........
+// ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+// ......All Function will go here undernith..........
+// ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 //All code will be deleted here.............
-
 function printOut(text){
     const div = document.createElement('div')
     div.innerHTML = text
@@ -16,3 +25,4 @@ function printOut(text){
 // addEventListener('click',()=>{
 //     alert("this is working")
 // })
+// ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
