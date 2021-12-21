@@ -5,7 +5,7 @@ In HTML file, there is linkup with CSS and js files.
 In Css, there is only two line code for border-box.
 
 In js, there are two function writen for debugging and Five seperation with conmments.
-1.For diclearing globle effects over the programm.
+1.For declaration globle effects over the programm.
 2.For building connection with HTML page.
 3.For adding EventListener.
 4.For Writing all layers of function.
